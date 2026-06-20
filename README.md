@@ -11,7 +11,7 @@ Current snapshot: the **307,519-object / 1,653-cluster** rebuild (2026-06-20),
 sources ARTIC · Rijksmuseum · Cleveland · Getty · Harvard · Met · Paris Musées · MIA
 (SI / Smithsonian-hold and image-less Joconde sources filtered out).
 
-## Contents (`data/`)
+## Contents (the repo root)
 
 | File | What |
 |---|---|
