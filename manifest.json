@@ -1,6 +1,6 @@
 {
   "count": 307519,
-  "clusterCount": 1659,
+  "clusterCount": 1340,
   "noiseCount": 132048,
   "noiseFraction": 0.4294,
   "bounds": {
@@ -11,7 +11,7 @@
   },
   "coordScale": 1000.0,
   "sample": false,
-  "generatedAt": "2026-06-19T01:37:37+00:00",
+  "generatedAt": "2026-06-21T23:16:22+00:00",
   "files": {
     "positions": "positions.f32.bin (Float32, x,y interleaved)",
     "clusterIds": "cluster_ids.i16.bin (Int16, -1=noise)",
